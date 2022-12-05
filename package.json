@@ -10,7 +10,7 @@
     "build": "cd client && npm run build",
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm start",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d client/dist"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
+    "gh-pages": "^4.0.0",
     "nodemon": "^2.0.4",
     "webpack": "^5.75.0"
   }
