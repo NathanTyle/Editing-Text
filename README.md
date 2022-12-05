@@ -36,9 +36,9 @@
    #github pages link:
    https://nathantyle.github.io/Editing-Text/
 
-![screensot1](images/Capture.PNG)
-![screensot2](images/Capture2.PNG)
-![screensot3](images/Capture3.PNG)
-![screensot4](images/Capture4.PNG)
-![screensot5](images/Capture5.PNG)
-![screensot6](images/Capture6.PNG)
+![screensot1](./img/Capture.PNG)
+![screensot2](./img/Capture%202.PNG)
+![screensot3](./img/Capture3.PNG)
+![screensot4](./img/Capture4.PNG)
+![screensot5](./img/Capture5.PNG)
+![screensot6](./img/Capture6.PNG)
