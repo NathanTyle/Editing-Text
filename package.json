@@ -9,14 +9,18 @@
     "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && npm run build",
     "install": "cd server && npm i && cd ../client && npm i",
-    "client": "cd client && npm start"
+    "client": "cd client && npm start",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
+  "homepage": "https://nathantyle.github.io/Editing-Text",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "gh": "^2.8.9",
+    "if-env": "^1.0.4",
+    "pages": "^0.0.16"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
